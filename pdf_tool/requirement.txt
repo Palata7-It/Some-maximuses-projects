@@ -1,0 +1,4 @@
+aiogram
+logging
+fpdf
+os
